@@ -1,9 +1,0 @@
-{
-  "name": "0000dev/my",
-  "description": "my fmw",
-  "autoload": {
-    "psr-4": {
-      "": "core.php"
-    }
-  }
-}

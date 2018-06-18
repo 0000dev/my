@@ -1,6 +1,9 @@
 {
-    "name": "my/framework",
-    "description": "A Slim Framework skeleton application for rapid development",
-    "homepage": "https://github.com/0000dev/my",
-    "license": "MIT"
+  "name": "0000dev/my",
+  "description": "my fmw",
+  "autoload": {
+    "psr-4": {
+      "": "core.php"
+    }
+  }
 }

@@ -1,0 +1,6 @@
+{
+    "name": "my/framework",
+    "description": "A Slim Framework skeleton application for rapid development",
+    "homepage": "https://github.com/0000dev/my",
+    "license": "MIT"
+}
